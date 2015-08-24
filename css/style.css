@@ -1,0 +1,16 @@
+ul {
+	list-style: none;
+	width: 70%;
+	float: right;
+}
+
+ul li{
+	margin-right: 150px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+p {
+	display: inline-block;
+	float: left;
+}
